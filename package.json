@@ -1,0 +1,27 @@
+{
+  "name": "ease-mdb",
+  "version": "1.0.0",
+  "description": "Easy and secure MongoDB work",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WH0IA/easeMDB.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "mongoose"
+  ],
+  "author": "Aleksandr Stoliarov <mr.aleksandr1456@mail.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WH0IA/easeMDB/issues"
+  },
+  "homepage": "https://github.com/WH0IA/easeMDB#readme",
+  "dependencies": {
+    "mongoose": "^6.1.4"
+  }
+}
